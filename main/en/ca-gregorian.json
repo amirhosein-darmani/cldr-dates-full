@@ -41,18 +41,18 @@
                   "12": "D"
                 },
                 "wide": {
-                  "1": "January",
-                  "2": "February",
-                  "3": "March",
-                  "4": "April",
-                  "5": "May",
-                  "6": "June",
-                  "7": "July",
-                  "8": "August",
-                  "9": "September",
-                  "10": "October",
-                  "11": "November",
-                  "12": "December"
+                  "1": "farvardin",
+                  "2": "ordibehesht",
+                  "3": "khordad",
+                  "4": "tir",
+                  "5": "mordad",
+                  "6": "shahrivar",
+                  "7": "mehr",
+                  "8": "aban",
+                  "9": "azar",
+                  "10": "dey",
+                  "11": "bahman",
+                  "12": "esfand"
                 }
               },
               "stand-alone": {
@@ -85,18 +85,18 @@
                   "12": "D"
                 },
                 "wide": {
-                  "1": "January",
-                  "2": "February",
-                  "3": "March",
-                  "4": "April",
-                  "5": "May",
-                  "6": "June",
-                  "7": "July",
-                  "8": "August",
-                  "9": "September",
-                  "10": "October",
-                  "11": "November",
-                  "12": "December"
+                  "1": "farvardin",
+                  "2": "ordibehesht",
+                  "3": "khordad",
+                  "4": "tir",
+                  "5": "mordad",
+                  "6": "shahrivar",
+                  "7": "mehr",
+                  "8": "aban",
+                  "9": "azar",
+                  "10": "dey",
+                  "11": "bahman",
+                  "12": "esfand"
                 }
               }
             },
